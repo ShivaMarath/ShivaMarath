@@ -213,7 +213,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShivaMarath&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaMarath&theme=tokyonight&hide_border=true&fire=DD2727&ring=007ACC&currStreakLabel=007ACC" width="49%" />
 
 <br/>
