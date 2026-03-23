@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:007ACC,50:5D5FEF,100:E36002&height=280&section=header&text=Shiva%20Marath&fontSize=80&fontColor=ffffff&fontAlignY=45&stroke=ffffff&strokeWidth=2&animation=twinkling&desc=I%20build%20things%20that%20talk%20to%20each%20other%20in%20real%20time&descSize=18&descColor=c9d1d9&descAlignY=65" width="100%" />
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=007ACC&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Full-Stack+TypeScript+Developer+%F0%9F%9A%80;Real-Time+Systems+%26+WebSockets+%E2%9A%A1;AI-Powered+App+Builder+%F0%9F%A4%96;Open+Source+Collaborator+%F0%9F%A4%9D;Always+Learning%2C+Always+Shipping+%F0%9F%93%A6" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=007ACC&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Full-Stack+TypeScript+Developer+%F0%9F%9A%80;Real-Time+Systems+%26+WebSockets+%E2%9A%A1;AI-Powered+App+Builder+%F0%9F%A4%96;Always+Learning%2C+Always+Shipping+%F0%9F%93%A6" alt="Typing SVG" />
 
 <br/>
 
