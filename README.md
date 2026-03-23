@@ -1,115 +1,254 @@
+<!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:5D5FEF&height=200&section=header&text=Shiva%20Marath&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=full-stack%20dev%20%C2%B7%20real-time%20systems%20%C2%B7%20AI-powered%20apps&descAlignY=58&descSize=16&descColor=c9d1d9" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:007ACC,50:5D5FEF,100:E36002&height=280&section=header&text=Shiva%20Marath&fontSize=80&fontColor=ffffff&fontAlignY=45&stroke=ffffff&strokeWidth=2&animation=twinkling&desc=I%20build%20things%20that%20talk%20to%20each%20other%20in%20real%20time&descSize=18&descColor=c9d1d9&descAlignY=65" width="100%" />
+
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=007ACC&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Full-Stack+TypeScript+Developer+%F0%9F%9A%80;Real-Time+Systems+%26+WebSockets+%E2%9A%A1;AI-Powered+App+Builder+%F0%9F%A4%96;Open+Source+Collaborator+%F0%9F%A4%9D;Always+Learning%2C+Always+Shipping+%F0%9F%93%A6" alt="Typing SVG" />
 
 <br/>
 
-[![Email](https://img.shields.io/badge/shivamarath2005@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shivamarath2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Shiva_Marath-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-marath)
-[![GitHub](https://img.shields.io/badge/ShivaMarath-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShivaMarath)
+<!-- PROFILE VIEWS + FOLLOWERS -->
+![Profile Views](https://komarev.com/ghpvc/?username=ShivaMarath&color=007ACC&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/ShivaMarath?style=for-the-badge&color=5D5FEF&labelColor=0d1117&label=FOLLOWERS)
+![GitHub stars](https://img.shields.io/github/stars/ShivaMarath?style=for-the-badge&color=E36002&labelColor=0d1117&label=TOTAL+STARS)
+
+<br/>
+
+<!-- SOCIAL LINKS -->
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamarath2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-marath)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShivaMarath)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
 </div>
 
 ---
 
-## `whoami`
+<!-- WHO AM I -->
+## ⚡ `whoami`
+
+<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```ts
-const shiva = {
-  focus:      ["full-stack dev", "real-time systems", "AI tooling"],
+const shiva: Developer = {
+  name:       "Shiva Marath",
+  age:        19,
+  location:   "India 🇮🇳",
+  focus:      [
+    "full-stack development",
+    "real-time systems",
+    "AI-powered tooling",
+  ],
   learning:   ["advanced TypeScript", "system design"],
-  building:   "things that solve real problems",
-  openTo:     "open-source collabs & innovative web apps",
-  funFact:    "I think in TypeScript and dream in WebSockets",
+  building:   "things that talk to each other in real time",
+  openTo:     "collabs, open-source, and big ideas",
+  funFact:    "I think in TypeScript & dream in WebSockets",
+  contactAt:  "shivamarath2005@gmail.com",
 };
 ```
 
+<br clear="right"/>
+
 ---
 
-## 🛠 Tech Stack
+<!-- CURRENTLY BUILDING -->
+## 🔥 What I'm Up To
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<table>
+<tr>
+<td width="50%">
+
+**🚧 Building**
+- ⚡ Real-time WebSocket apps
+- 🤖 AI-powered ticket & workflow systems
+- 🎨 Collaborative canvas with live sync
+- 📦 Scalable monorepo architectures
+
+</td>
+<td width="50%">
+
+**📚 Learning**
+- 🔷 Advanced TypeScript patterns
+- 🏗️ System design at scale
+- ☸️ Kubernetes orchestration
+- 🔁 Durable workflows with Inngest
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- TECH STACK - FULL MASSIVE SECTION -->
+## 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+
+### 💬 Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### Frontend
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Backend
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Databases
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Background Jobs & Workflows
+### 🔁 Background Jobs & Workflows
 ![Inngest](https://img.shields.io/badge/Inngest-5D5FEF?style=for-the-badge&logo=inngest&logoColor=white)
 
-> Event-driven background jobs, scheduled functions & durable workflows — Inngest powers the async backbone of my AI and real-time projects.
+> 🚀 **Inngest** — event-driven background jobs, scheduled functions & durable step workflows. Powers the async backbone of all my AI projects. No queue infra, no headaches.
 
-### DevOps & Tooling
+### 🚀 DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### 🧰 Tools & Architecture
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Architecture & Validation
-![Monorepo](https://img.shields.io/badge/Monorepo-000000?style=for-the-badge&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Monorepo](https://img.shields.io/badge/Monorepo-000000?style=for-the-badge&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+</div>
 
 ---
 
-## 📁 Projects
 
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [**AI_Ticket_System**](https://github.com/ShivaMarath/AI_Ticket_System) | AI-powered ticket management — triage, routing, and resolution | TypeScript |
-| [**Sketch**](https://github.com/ShivaMarath/Sketch) | Collaborative drawing app with real-time sync | TypeScript |
-| [**chatapp-backend**](https://github.com/ShivaMarath/chatapp-backend) | Scalable WebSocket chat backend | TypeScript |
-| [**Ping_pong-websockets1**](https://github.com/ShivaMarath/Ping_pong-websockets1) | Real-time multiplayer ping-pong via WebSockets | TypeScript |
-| [**Byte**](https://github.com/ShivaMarath/Byte) | TypeScript project — watch this space | TypeScript |
-| [**Postcard**](https://github.com/ShivaMarath/Postcard) | Digital postcard creator | TypeScript |
-| [**Leetcode-Metric**](https://github.com/ShivaMarath/Leetcode-Metric) | Visualise your LeetCode progress by difficulty | JavaScript |
-
----
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivaMarath&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaMarath&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaMarath&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivaMarath&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
+<!-- PROJECTS - CARD STYLE -->
+## 🚀 Featured Projects
 
 <div align="center">
 
-**If something I built is useful to you — leave a ⭐ and say hi!**
-
-[![Email](https://img.shields.io/badge/Get_in_touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamarath2005@gmail.com)
+<a href="https://github.com/ShivaMarath/AI_Ticket_System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivaMarath&repo=AI_Ticket_System&theme=tokyonight&hide_border=true&show_owner=false" />
+</a>
+<a href="https://github.com/ShivaMarath/Sketch">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivaMarath&repo=Sketch&theme=tokyonight&hide_border=true&show_owner=false" />
+</a>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5D5FEF,100:007ACC&height=120&section=footer" width="100%" />
+<a href="https://github.com/ShivaMarath/chatapp-backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivaMarath&repo=chatapp-backend&theme=tokyonight&hide_border=true&show_owner=false" />
+</a>
+<a href="https://github.com/ShivaMarath/Ping_pong-websockets1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivaMarath&repo=Ping_pong-websockets1&theme=tokyonight&hide_border=true&show_owner=false" />
+</a>
+
+<br/>
+
+<a href="https://github.com/ShivaMarath/Byte">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivaMarath&repo=Byte&theme=tokyonight&hide_border=true&show_owner=false" />
+</a>
+<a href="https://github.com/ShivaMarath/Leetcode-Metric">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivaMarath&repo=Leetcode-Metric&theme=tokyonight&hide_border=true&show_owner=false" />
+</a>
+
+</div>
+
+---
+
+<!-- GITHUB STATS - FULL SUITE -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ShivaMarath&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaMarath&theme=tokyonight&hide_border=true&fire=DD2727&ring=007ACC&currStreakLabel=007ACC" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaMarath&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" width="38%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShivaMarath&theme=tokyonight&utcOffset=5.5" width="49%" />
+
+</div>
+
+---
+
+<!-- ACTIVITY GRAPH -->
+## 📅 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivaMarath&theme=tokyo-night&hide_border=true&area=true&area_color=007ACC&line=5D5FEF&point=E36002" width="100%" />
+
+</div>
+
+---
+
+<!-- RANDOM DEV QUOTE -->
+## 💭 Today's Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+
+</div>
+
+---
+
+<!-- SPOTIFY / VIBES -->
+## 🎧 Coding Vibes
+
+<div align="center">
+
+> *"The best code is the code that ships."*
+
+[![Spotify](https://img.shields.io/badge/Lo--Fi%20%26%20Deep%20Focus-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](#)
+[![Coffee](https://img.shields.io/badge/Powered%20by%20Coffee-%23795548?style=for-the-badge&logo=buymeacoffee&logoColor=white)](#)
+![Night Owl](https://img.shields.io/badge/Night%20Owl%20Coder-000000?style=for-the-badge&logo=nightowl&logoColor=yellow)
+
+</div>
+
+---
+
+
+<!-- CONNECT -->
+## 📫 Let's Build Something
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
+
+**I love connecting with other developers and builders.**
+**Got an idea? Let's talk.**
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamarath2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-marath)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShivaMarath)
+
+<br/>
+
+![](https://hit.yhype.me/github/profile?user_id=ShivaMarath)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5D5FEF,50:007ACC,100:E36002&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%" />
 
 </div>
