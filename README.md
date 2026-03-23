@@ -1,10 +1,10 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:007ACC,50:5D5FEF,100:E36002&height=280&section=header&text=Shiva%20Marath&fontSize=80&fontColor=ffffff&fontAlignY=45&stroke=ffffff&strokeWidth=2&animation=twinkling&desc=I%20build%20things%20that%20talk%20to%20each%20other%20in%20real%20time&descSize=18&descColor=c9d1d9&descAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:007ACC,50:5D5FEF,100:E36002&height=280&section=header&text=Shiva%20Marath&fontSize=80&fontColor=ffffff&fontAlignY=45&stroke=ffffff&strokeWidth=2&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20TypeScript%20%7C%20AI-Powered%20Apps&descSize=18&descColor=c9d1d9&descAlignY=65" width="100%" />
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=007ACC&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Full-Stack+TypeScript+Developer+%F0%9F%9A%80;Real-Time+Systems+%26+WebSockets+%E2%9A%A1;AI-Powered+App+Builder+%F0%9F%A4%96;Always+Learning%2C+Always+Shipping+%F0%9F%93%A6" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=007ACC&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Full-Stack+TypeScript+Developer+%F0%9F%9A%80;AI-Powered+App+Builder+%F0%9F%A4%96;Always+Learning%2C+Always+Shipping+%F0%9F%93%A6" alt="Typing SVG" />
 
 <br/>
 
@@ -52,31 +52,69 @@ const shiva: Developer = {
 
 ---
 
-<!-- CURRENTLY BUILDING -->
-## 🔥 What I'm Up To
 
-<table>
-<tr>
-<td width="50%">
 
-**🚧 Building**
-- ⚡ Real-time WebSocket apps
-- 🤖 AI-powered ticket & workflow systems
-- 🎨 Collaborative canvas with live sync
-- 📦 Scalable monorepo architectures
+<!-- DEVELOPER JOURNEY -->
+## 🗺️ My Developer Journey
 
-</td>
-<td width="50%">
+```mermaid
+flowchart LR
+    A([🌱 Origin\nCurious Kid · Age 14]) --> B & C
 
-**📚 Learning**
-- 🔷 Advanced TypeScript patterns
-- 🏗️ System design at scale
-- ☸️ Kubernetes orchestration
-- 🔁 Durable workflows with Inngest
+    B[💻 HTML · CSS · JS\nBuilding static pages]
+    C[🐍 Python · C++\nAlgorithms & Logic]
 
-</td>
-</tr>
-</table>
+    B --> D
+    C --> D
+
+    D[⚡ TypeScript\nType-safe thinking]
+
+    D -->|went deep on UI| F[⚛️ React & Next.js\nComponent architecture\nUI/UX obsession]
+    D -->|went deep on servers| G[🟢 Node.js · Express · Hono\nAPIs · REST · Auth]
+
+    F --> H[🔗 Full-Stack\nEnd-to-end ownership]
+    G --> H
+
+    G -->|needed persistence| J
+    F -->|needed state| J
+
+    H --> I[⚡ WebSockets\nReal-time sync\nThings talking live]
+    H --> J[🗄️ Data Layer\nPostgreSQL · MongoDB · Redis]
+
+    I --> K
+    J --> K
+
+    I -->|powered by| P[📦 Monorepos · Turborepo\nShared libs · Clean DX]
+    J -->|scaled with| P
+
+    K[🤖 AI-Powered Tools\nTicket systems · Agents\nLLM integrations]
+
+    K --> L[☸️ Docker · Kubernetes\nContainerised & orchestrated]
+    K --> M[🔁 Inngest Workflows\nDurable jobs · Event-driven\nAsync backbone]
+
+    L --> N
+    M --> N
+    P --> N
+
+    N([🚀 NOW\nShipping real products\nAlways learning · Always building])
+
+    style A fill:#0d1117,stroke:#007ACC,color:#c9d1d9,stroke-width:2px
+    style N fill:#0d1117,stroke:#E36002,color:#c9d1d9,stroke-width:3px
+    style B fill:#0d1117,stroke:#007ACC,color:#c9d1d9
+    style C fill:#0d1117,stroke:#007ACC,color:#c9d1d9
+    style D fill:#0d1117,stroke:#007ACC,color:#c9d1d9,stroke-width:2px
+    style F fill:#0d1117,stroke:#5D5FEF,color:#c9d1d9
+    style G fill:#0d1117,stroke:#5D5FEF,color:#c9d1d9
+    style H fill:#0d1117,stroke:#5D5FEF,color:#c9d1d9,stroke-width:2px
+    style I fill:#0d1117,stroke:#E36002,color:#c9d1d9
+    style J fill:#0d1117,stroke:#5D5FEF,color:#c9d1d9
+    style K fill:#0d1117,stroke:#E36002,color:#c9d1d9,stroke-width:2px
+    style L fill:#0d1117,stroke:#E36002,color:#c9d1d9
+    style M fill:#0d1117,stroke:#E36002,color:#c9d1d9
+    style P fill:#0d1117,stroke:#5D5FEF,color:#c9d1d9
+
+    linkStyle default stroke:#444,stroke-width:1.5px
+```
 
 ---
 
@@ -122,8 +160,6 @@ const shiva: Developer = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### 🧰 Tools & Architecture
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
