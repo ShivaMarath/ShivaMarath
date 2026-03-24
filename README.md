@@ -37,14 +37,9 @@ const shiva: Developer = {
   location:   "India 🇮🇳",
   focus:      [
     "full-stack development",
-    "real-time systems",
+    "agentic-ai systems",
     "AI-powered tooling",
   ],
-  learning:   ["advanced TypeScript", "system design"],
-  building:   "things that talk to each other in real time",
-  openTo:     "collabs, open-source, and big ideas",
-  funFact:    "I think in TypeScript & dream in WebSockets",
-  contactAt:  "shivamarath2005@gmail.com",
 };
 ```
 
@@ -55,68 +50,7 @@ const shiva: Developer = {
 
 
 <!-- DEVELOPER JOURNEY -->
-## 🗺️ My Developer Journey
 
-```mermaid
-flowchart LR
-    A([🌱 Origin\nCurious Kid · Age 14]) --> B & C
-
-    B[💻 HTML · CSS · JS\nBuilding static pages]
-    C[🐍 Python · C++\nAlgorithms & Logic]
-
-    B --> D
-    C --> D
-
-    D[⚡ TypeScript\nType-safe thinking]
-
-    D -->|went deep on UI| F[⚛️ React & Next.js\nComponent architecture\nUI/UX obsession]
-    D -->|went deep on servers| G[🟢 Node.js · Express · Hono\nAPIs · REST · Auth]
-
-    F --> H[🔗 Full-Stack\nEnd-to-end ownership]
-    G --> H
-
-    G -->|needed persistence| J
-    F -->|needed state| J
-
-    H --> I[⚡ WebSockets\nReal-time sync\nThings talking live]
-    H --> J[🗄️ Data Layer\nPostgreSQL · MongoDB · Redis]
-
-    I --> K
-    J --> K
-
-    I -->|powered by| P[📦 Monorepos · Turborepo\nShared libs · Clean DX]
-    J -->|scaled with| P
-
-    K[🤖 AI-Powered Tools\nTicket systems · Agents\nLLM integrations]
-
-    K --> L[☸️ Docker · Kubernetes\nContainerised & orchestrated]
-    K --> M[🔁 Inngest Workflows\nDurable jobs · Event-driven\nAsync backbone]
-
-    L --> N
-    M --> N
-    P --> N
-
-    N([🚀 NOW\nShipping real products\nAlways learning · Always building])
-
-    style A fill:#0d1117,stroke:#007ACC,color:#c9d1d9,stroke-width:2px
-    style N fill:#0d1117,stroke:#E36002,color:#c9d1d9,stroke-width:3px
-    style B fill:#0d1117,stroke:#007ACC,color:#c9d1d9
-    style C fill:#0d1117,stroke:#007ACC,color:#c9d1d9
-    style D fill:#0d1117,stroke:#007ACC,color:#c9d1d9,stroke-width:2px
-    style F fill:#0d1117,stroke:#5D5FEF,color:#c9d1d9
-    style G fill:#0d1117,stroke:#5D5FEF,color:#c9d1d9
-    style H fill:#0d1117,stroke:#5D5FEF,color:#c9d1d9,stroke-width:2px
-    style I fill:#0d1117,stroke:#E36002,color:#c9d1d9
-    style J fill:#0d1117,stroke:#5D5FEF,color:#c9d1d9
-    style K fill:#0d1117,stroke:#E36002,color:#c9d1d9,stroke-width:2px
-    style L fill:#0d1117,stroke:#E36002,color:#c9d1d9
-    style M fill:#0d1117,stroke:#E36002,color:#c9d1d9
-    style P fill:#0d1117,stroke:#5D5FEF,color:#c9d1d9
-
-    linkStyle default stroke:#444,stroke-width:1.5px
-```
-
----
 
 <!-- TECH STACK - FULL MASSIVE SECTION -->
 ## 🛠️ Tech Stack & Arsenal
@@ -144,7 +78,7 @@ flowchart LR
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -188,12 +122,8 @@ flowchart LR
 
 <br/>
 
-<a href="https://github.com/ShivaMarath/chatapp-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivaMarath&repo=chatapp-backend&theme=tokyonight&hide_border=true&show_owner=false" />
-</a>
-<a href="https://github.com/ShivaMarath/Ping_pong-websockets1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivaMarath&repo=Ping_pong-websockets1&theme=tokyonight&hide_border=true&show_owner=false" />
-</a>
+
+
 
 <br/>
 
