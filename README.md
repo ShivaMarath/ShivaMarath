@@ -108,35 +108,15 @@ const shiva: Developer = {
 ---
 
 
-<!-- PROJECTS - CARD STYLE -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/ShivaMarath/AI_Ticket_System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivaMarath&repo=AI_Ticket_System&theme=tokyonight&hide_border=true&show_owner=false" />
-</a>
-<a href="https://github.com/ShivaMarath/Sketch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivaMarath&repo=Sketch&theme=tokyonight&hide_border=true&show_owner=false" />
-</a>
-
-<br/>
 
 
 
 
-<br/>
 
-<a href="https://github.com/ShivaMarath/Byte">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivaMarath&repo=Byte&theme=tokyonight&hide_border=true&show_owner=false" />
-</a>
-<a href="https://github.com/ShivaMarath/Leetcode-Metric">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivaMarath&repo=Leetcode-Metric&theme=tokyonight&hide_border=true&show_owner=false" />
-</a>
 
-</div>
 
----
+
+
 
 <!-- GITHUB STATS - FULL SUITE -->
 ## 📊 GitHub Stats
@@ -193,23 +173,7 @@ const shiva: Developer = {
 ---
 
 
-<!-- CONNECT -->
-## 📫 Let's Build Something
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
-
-**I love connecting with other developers and builders.**
-**Got an idea? Let's talk.**
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamarath2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-marath)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShivaMarath)
-
-<br/>
 
 ![](https://hit.yhype.me/github/profile?user_id=ShivaMarath)
 
