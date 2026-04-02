@@ -118,22 +118,18 @@ const shiva: Developer = {
 
 
 
-<!-- GITHUB STATS - FULL SUITE -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaMarath&theme=tokyonight&hide_border=true&fire=DD2727&ring=007ACC&currStreakLabel=007ACC" width="49%" />
 
-<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaMarath&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" width="38%" />
+
+<br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShivaMarath&theme=tokyonight&utcOffset=5.5" width="49%" />
 
 </div>
-
----
 
 <!-- ACTIVITY GRAPH -->
 ## 📅 Contribution Activity
